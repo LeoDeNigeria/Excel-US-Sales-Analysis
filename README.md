@@ -1,4 +1,5 @@
 # Excel-US-Sales-Analysis
+![Dashboard](https://github.com/LeoDeNigeria/Excel-US-Sales-Analysis/blob/main/Dashboard%20%20(1).png)
 ## Overview
 This project is aimed at providing insightful analysis of the Amazon sales data for a Company. The analysis is presented through a comprehensive dashboard created in Microsoft Excel using pivot tables and charts.
 
