@@ -4,7 +4,7 @@
 This project is aimed at providing insightful analysis of the Amazon sales data for a Company. The analysis is presented through a comprehensive dashboard created in Microsoft Excel using pivot tables and charts.
 
 ## Data Source
-The sales data used for this analysis is sourced from a CSV file provided by a Company on the internet. The data includes information such as dates, locations, sales amount, profits, categories, sub-categories, product names, dates, and customer details.
+The sales data used for this analysis is sourced from a CSV file provided by a Company on the internet. The data includes information such as dates, locations, sales amount, profits, categories, sub-categories, product names and customer details.
 
 ## Data Cleaning and Preparation
 Before analysis, the raw data underwent several preprocessing steps:
